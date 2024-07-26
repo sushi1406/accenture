@@ -1,0 +1,5 @@
+Sentiment,Content Type,score,negative score,positive score,neutral score
+negative,photo,6589,2057,3700,832
+positive,video,6245,1943,3510,792
+neutral,GIF,6079,1924,3381,774
+,audio,5660,1771,3216,673
